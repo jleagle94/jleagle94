@@ -4,9 +4,11 @@ I am currently a SURA Postdoctoral Research Associate at NASA Goddard Space Flig
 
 <!-- 
 ![Jordan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jleagle94&show_icons=true&theme=tokyonight)
-![GitHub Snake](https://github.com/jleagle94/blob/output/github-contribution-grid-snake.svg)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jleagle94&theme=tokyonight)](https://git.io/streak-stats)
 -->
+
+![GitHub Snake Light](https://raw.githubusercontent.com/jleagle94/jleagle94/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/jleagle94/jleagle94/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 Research & Publications Highlight:
 [![Recent Fermi-LAT Systematic Search for PWNe](https://img.shields.io/badge/ApJ%202025-Recent%20Fermi--LAT%20Systematic%20Search%20for%20PWNe-ff69b4?logo=read-the-docs&logoColor=white)](https://ui.adsabs.harvard.edu/link_gateway/2025ApJ...989..110T/EPRINT_PDF)
