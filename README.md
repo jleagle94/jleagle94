@@ -11,7 +11,7 @@ I am currently a SURA Postdoctoral Research Associate at NASA Goddard Space Flig
 ![GitHub Snake Dark](https://raw.githubusercontent.com/jleagle94/jleagle94/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 Research & Publications Highlight:
-[![Recent Fermi-LAT Systematic Search for PWNe](https://img.shields.io/badge/ApJ%202025-Recent%20Fermi--LAT%20Systematic%20Search%20for%20PWNe-ff69b4?logo=read-the-docs&logoColor=white)](https://ui.adsabs.harvard.edu/link_gateway/2025ApJ...989..110T/EPRINT_PDF)
+[![Recent Fermi-LAT Systematic Search for PWNe](https://img.shields.io/badge/ApJ%202025-Recent%20Fermi--LAT%20Systematic%20Search%20for%20PWNe-ff69b4?logo=read-the-docs&logoColor=white)](https://ui.adsabs.harvard.edu/abs/2025ApJ...989..110T/abstract)
 
 Missions:
 [![Fornax](https://img.shields.io/badge/Fornax%20Initiative-FF0000?logo=nasa&logoColor=white)](https://pcos.gsfc.nasa.gov/Fornax/)
